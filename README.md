@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+![alt text](https://github.com/harry1988123/rigi/blob/main/1.PNG)
+![alt text](https://github.com/harry1988123/rigi/blob/main/2.PNG)
+![alt text](https://github.com/harry1988123/rigi/blob/main/3.PNG)
+
 
 ## Available Scripts
 
