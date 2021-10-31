@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![alt text](https://github.com/harry1988123/rigi/blob/main/2.PNG)
 ![alt text](https://github.com/harry1988123/rigi/blob/main/3.PNG)
 ![alt text](https://github.com/harry1988123/rigi/blob/main/4.PNG)
-![alt text](https://github.com/harry1988123/rigi/blob/main5.PNG)
+![alt text](https://github.com/harry1988123/rigi/blob/main/5.PNG)
 
 
 ## Available Scripts
